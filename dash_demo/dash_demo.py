@@ -11,7 +11,7 @@ import numpy as np
 #Step 1
 #We need to load our data into a df and clean it up
 
-df= pd.read_csv(r"C:\Users\SamanthaGrzegorzewsk\pandas_demos\dash_demo\household_median_income_2017.csv")
+df= pd.read_csv(r"C:\Users\Learner_XZHCG220\de\pandas_demos\dash_demo\household_median_income_2017.csv")
 #print(df.dtypes)
 #print(df.columns.dtype)
 
